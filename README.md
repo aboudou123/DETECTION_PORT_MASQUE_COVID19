@@ -1,0 +1,2 @@
+# DETECTION_PORT_MASQUE_COVID19
+Detektion und Klassifikation verschiedener Mundschutz-Maskentypen unter Verwendung neuronaler Netze
