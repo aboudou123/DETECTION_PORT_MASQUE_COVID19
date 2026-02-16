@@ -11,7 +11,7 @@
 
 <p align="center">
   <b>Bachelorarbeit zur Erlangung des akademischen Grades:</b><br>
-  Bachelor of Engineering an der Technischen Hochschule in Deggendorf
+  Bachelor of Engineering 
 </p>
 
 
