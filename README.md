@@ -58,11 +58,34 @@ Dieses Repository enthält die Dokumentation und theoretische Grundlage der Bach
 
 ---
 
+## Motivation
+
+Nach derzeitigem Stand kann die Ausbreitung des SARS-CoV-2 Virus durch das Tragen einer Maske über Mund und Nase gehemmt werden. Insbesondere beim Betreten von Gebäuden ist das Anlegen von Masken relevant, gleichzeitig ist aber eine individuelle, manuelle Überprüfung nur schwer umzusetzen. Daher soll im Rahmen dieser Bachelorarbeit eine erweiterte Maskendetektion durch Kamerabilder untersucht werden.
+
+## Kurzbeschreibung
+
+Die Verwendung tiefer neuronaler Netze (Deep Neural Networks, DNN) in der Bildverarbeitung hat insbesondere in der Objektdetektion signifikante Fortschritte ermöglicht. Ausgehend von den aktuellen DNN Architekturen soll zunächst durch Transfer-Learning die Verlässlichkeit der Detektion von Masken in Gesichtern im Allgemeinen untersucht werden.
+
+Hierzu soll auch eine annotierte Bilddatenbank mit unterschiedlichen Kameratypen (z.B. Infrarot-, Wärmebildkamera) und Kameraauflösungen für den Einsatz in der Forschung erstellt werden. Im weiteren Verlauf der Bachelorarbeit wird die Detektion schrittweise erweitert und verfeinert, insbesondere sollen Klassen für verschiedene Maskentypen (Alltagsmaske, FFP2-Schutzmaske, Schal, Gesichtsschild, etc.) untersucht werden und die Art des Tragens (Mundschutz, Mund- und Nasenschutz) detektiert werden.
+
+## Stichworte
+
+*Neuronale Netzwerke
+
+*Deep Convolutional Neuronal Networks
+
+*Bilderkennung Objektdetektion
+
+
+
 ## Abstract
 
-Die COVID-19-Krise hat weltweit Maßnahmen wie die Maskenpflicht hervorgebracht. Die manuelle Kontrolle der Maskentypen und der korrekten Trageweise ist im öffentlichen Raum jedoch schwierig. Diese Arbeit untersucht den Einsatz von **Deep Learning** und **Convolutional Neural Networks (CNN)** zur automatisierten Erkennung.
+Die COVID-19-Pandemie hat weltweit vielfältige Maßnahmen zur Eindämmung der Virusausbreitung, darunter die verpflichtende Maskennutzung, hervorgerufen. Im öffentlichen Raum erweist sich die manuelle Überprüfung sowohl der verwendeten Maskentypen als auch der korrekten Trageweise als Herausforderung. Diese Arbeit befasst sich mit der Implementierung von Deep Learning und Convolutional Neural Networks (CNN) zur automatisierten Erkennung von Gesichtsmasken.
 
-Das Ziel ist nicht nur die bloße Feststellung, ob eine Maske getragen wird, sondern die Differenzierung zwischen verschiedenen Typen (OP-Maske, FFP2, Gesichtsschutz) sowie die Analyse der Trageweise (Mund- und Nasenschutz). Hierzu wird ein modifizierter **YOLOv3-Ansatz** verwendet und eine spezifisch annotierte Bild-Datenbank erstellt.
+Ziel dieser Forschung ist es, über die bloße Feststellung des Maskentragens hinauszugehen und eine differenzierte Klassifizierung der Maskentypen (z. B. OP-Masken, FFP2-Masken, Gesichtsschutz) sowie die Analyse der Trageweise (insbesondere den ordnungsgemäßen Schutz von Mund und Nase) zu ermöglichen. Hierzu wird ein modifizierter YOLOv3-Ansatz entwickelt und eine eigens annotierte Bilddatenbank erstellt. Diese Methodik soll dazu beitragen, die Effizienz der Maskenkontrolle im öffentlichen Raum zu erhöhen und zugleich wertvolle Erkenntnisse für die öffentliche Gesundheit zu liefern.
+
+
+
 
 ---
 
