@@ -2,8 +2,9 @@
 # Technische Hochschule Deggendorf
 
 ---
-## Fakultät Angewandte Informatik
-## Studiengang Internet of Things
+
+**Fakultät:** Angewandte Informatik &nbsp;•&nbsp; **Studiengang:** Internet of Things
+
 
 
 ## Bachelorarbeit zur Erlangung des akademischen Grades:
