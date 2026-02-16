@@ -1,6 +1,16 @@
-Hier ist der Text, transformiert in ein professionelles, GitHub-optimiertes Markdown-Format.
+
+# Technische Hochschule Deggendorf
 
 ---
+## Fakultät Angewandte Informatik
+## Studiengang Internet of Things
+
+
+## Bachelorarbeit zur Erlangung des akademischen Grades:
+## Bachelor of Engineering
+## An der Technischen Hochschule in Deggendorf
+
+## Thema:
 
 # Detektion und Klassifikation von Mundschutz-Maskentypen mit neuronalen Netzen
 
@@ -37,7 +47,7 @@ Dieses Repository enthält die Dokumentation und theoretische Grundlage der Bach
 * **Hochschule:** Technische Hochschule Deggendorf (Fakultät Angewandte Informatik)
 * **Studiengang:** Internet of Things (B.Eng.)
 * **Prüfer/Betreuer:** Prof. Dr. Marcus Barkowsky, Prof. Dr. Peter Faber
-* **Datum:** 01.08.2021 (Abgabe) / 31.01.2022 (Erklärung)
+
 
 ---
 
@@ -111,9 +121,18 @@ YOLO ist ein zentraler Bestandteil dieser Forschung. Im Gegensatz zu klassischen
 <p align="center">
 <img src="./ujv1oblv.png" alt="Comparison SSD vs Two-Shot" width="600"/>
 
+<img width="799" height="1017" alt="image" src="https://github.com/user-attachments/assets/03e80947-cb24-4388-8e51-777c46cf41ca" />
+
+
+<img width="758" height="949" alt="image" src="https://github.com/user-attachments/assets/d8d7ca6e-3d05-4592-acd1-d2420dcbf62f" />
 
 
 
+<img width="792" height="898" alt="image" src="https://github.com/user-attachments/assets/913d88d2-2546-4416-ae7a-36fcf94ab4f4" />
+
+
+
+<img width="744" height="1001" alt="image" src="https://github.com/user-attachments/assets/9398770e-b00e-47c5-a652-3d631da2c78c" />
 
 <em>Abbildung 1: Vergleich der Meta-Architekturen (Quelle: Clear.ml)</em>
 </p>
@@ -144,4 +163,24 @@ Das Inhaltsverzeichnis der Arbeit gliedert sich wie folgt:
 
 ---
 
-> **Hinweis:** Dies ist eine strukturierte Zusammenfassung der Bachelorarbeit von Aboudou Koffitse. Alle Rechte liegen beim Autor und der THD.
+
+<img width="1003" height="790" alt="image" src="https://github.com/user-attachments/assets/b882d3d8-5d86-4205-9752-629369200cdd" />
+
+# Klassen für verschiedene Maskentypen
+
+<img width="935" height="880" alt="image" src="https://github.com/user-attachments/assets/48f46ee7-8ef2-44d1-89ef-079d5efbb60c" />
+
+<img width="967" height="845" alt="image" src="https://github.com/user-attachments/assets/2a520d12-6b27-476b-b6fd-029e2b552215" />
+
+# Data Annotation 
+
+<img width="1024" height="837" alt="image" src="https://github.com/user-attachments/assets/471a0c3f-65e2-4cd0-8b2b-c35ba62d3a0b" />
+
+# Resultat
+
+# Die Detektion der verschiedenen Gesichtsmaske in Echtzeit
+
+<img width="972" height="1139" alt="image" src="https://github.com/user-attachments/assets/f7dfa0b9-e06e-4b21-aa7b-adaa87451434" />
+
+
+Hinweis: Dies ist eine strukturierte Zusammenfassung der Bachelorarbeit von Aboudou Koffitse. Alle Rechte liegen beim Autor und der THD.
