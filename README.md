@@ -27,7 +27,7 @@ Dieses Repository enthält die Dokumentation und theoretische Grundlage der Bach
 
 </p>
 
-## Table des matières
+## Inhaltsverzeichnis
 
 * [Überblick](https://www.google.com/search?q=%23%C3%BCberblick)
 * [Abstract](https://www.google.com/search?q=%23abstract)
@@ -189,7 +189,8 @@ Das Inhaltsverzeichnis der Arbeit gliedert sich wie folgt:
 * `4. Objekterkennung mit DNN`
 * `5. Gesichtserkennung zu Maskenerkennung`
 * `6. Modifizierter YOLO-Ansatz`
-* `7. Fazit`
+*  7. Implementierung Face Maskt datection mit python`
+* `8. Fazit`
 
 ---
 
@@ -213,4 +214,5 @@ Das Inhaltsverzeichnis der Arbeit gliedert sich wie folgt:
 <img width="972" height="1139" alt="image" src="https://github.com/user-attachments/assets/f7dfa0b9-e06e-4b21-aa7b-adaa87451434" />
 
 
-Hinweis: Dies ist eine strukturierte Zusammenfassung der Bachelorarbeit von Aboudou Koffitse. Alle Rechte liegen beim Autor und der THD.
+## Hinweis: 
+Dies ist eine strukturierte Zusammenfassung der Bachelorarbeit von **Aboudou Koffitse**. Alle Rechte liegen beim Autor und der THD.
