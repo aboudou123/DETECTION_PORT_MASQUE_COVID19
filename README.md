@@ -19,10 +19,12 @@
 
 # Detektion und Klassifikation von Mundschutz-Maskentypen mit neuronalen Netzen
 
-Dieses Repository enthält die Dokumentation und theoretische Grundlage der Bachelorarbeit zum Thema **„Detektion und Klassifikation verschiedener Mundschutz-Maskentypen unter Verwendung neuronaler Netze“**. Die Arbeit wurde an der Technischen Hochschule Deggendorf im Studiengang Internet of Things erstellt.
+Dieses Repository enthält die Dokumentation und theoretische Grundlage der Bachelorarbeit zum Thema **„Detektion und Klassifikation verschiedener Mundschutz-Maskentypen unter Verwendung neuronaler Netze“**. Die Arbeit wurde an der Technischen Hochschule Deggendorf im Studiengang [Internet of Things](https://www.th-deg.de/ai-b) erstellt.
+
 
 <p align="center">
-<img src="./1iwkldoq.png" alt="THD Logo" width="400"/>
+<img width="446" height="102" alt="image" src="https://github.com/user-attachments/assets/5ce5746e-41d6-4b18-9eef-7527cda8d8f2" />
+
 </p>
 
 ## Table des matières
