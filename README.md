@@ -6,10 +6,17 @@
 **Fakultät:** Angewandte Informatik &nbsp;•&nbsp; **Studiengang:** Internet of Things
 
 
+<p align="center">
+  <b>Bachelorarbeit (B.Eng.)</b> <br>
+  Studiengang Internet of Things | Technische Hochschule Deggendorf
+</p>
 
-## Bachelorarbeit zur Erlangung des akademischen Grades:
-## Bachelor of Engineering
-## An der Technischen Hochschule in Deggendorf
+
+<p align="center">
+  <b>Bachelorarbeit zur Erlangung des akademischen Grades:</b><br>
+  Bachelor of Engineering an der Technischen Hochschule in Deggendorf
+</p>
+
 
 ## Thema:
 
