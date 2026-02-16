@@ -103,7 +103,8 @@ Untersuchung von Bildverarbeitungsarchitekturen zur Klassifikation von Menschen 
 4. **Objekterkennung mit DNN (CNN & YOLO)**
 5. **Gesichtserkennung vs. Maskenerkennung**
 6. **Modifizierter YOLO-Ansatz & Experimente**
-7. **Fazit & Ausblick**
+7. **Implementierung Face Mask detektion mit python**
+8. **Fazit & Ausblick**
 
 ---
 
